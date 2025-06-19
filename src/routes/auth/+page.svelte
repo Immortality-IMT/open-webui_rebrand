@@ -157,7 +157,7 @@
 
 <svelte:head>
 	<title>
-		{`${$WEBUI_NAME}`}
+		Immortality A.I.
 	</title>
 </svelte:head>
 
